@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fic\\source\\repos\\POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{002EE19D-886F-463A-87A5-E0102512CCCE}|Exercicio\\Exercicio.csproj|c:\\users\\fic\\source\\repos\\poo\\exercicio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002EE19D-886F-463A-87A5-E0102512CCCE}|Exercicio\\Exercicio.csproj|solutionrelative:exercicio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1316C16A-E6D4-42B4-903D-DA6AE08F0AB2}|POO\\POO.csproj|c:\\users\\fic\\source\\repos\\poo\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1316C16A-E6D4-42B4-903D-DA6AE08F0AB2}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1316C16A-E6D4-42B4-903D-DA6AE08F0AB2}|POO\\POO.csproj|c:\\users\\fic\\source\\repos\\poo\\poo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1316C16A-E6D4-42B4-903D-DA6AE08F0AB2}|POO\\POO.csproj|solutionrelative:poo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002EE19D-886F-463A-87A5-E0102512CCCE}|Exercicio\\Exercicio.csproj|c:\\users\\fic\\source\\repos\\poo\\exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002EE19D-886F-463A-87A5-E0102512CCCE}|Exercicio\\Exercicio.csproj|solutionrelative:exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\source\\repos\\POO\\Exercicio\\Class1.cs",
+              "RelativeDocumentMoniker": "Exercicio\\Class1.cs",
+              "ToolTip": "C:\\Users\\fic\\source\\repos\\POO\\Exercicio\\Class1.cs",
+              "RelativeToolTip": "Exercicio\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:46:57.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\source\\repos\\POO\\Exercicio\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\source\\repos\\POO\\Exercicio\\Program.cs",
+              "RelativeToolTip": "Exercicio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:44:53.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\source\\repos\\POO\\POO\\Carro.cs",
+              "RelativeDocumentMoniker": "POO\\Carro.cs",
+              "ToolTip": "C:\\Users\\fic\\source\\repos\\POO\\POO\\Carro.cs",
+              "RelativeToolTip": "POO\\Carro.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:04:22.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\source\\repos\\POO\\POO\\Program.cs",
+              "RelativeDocumentMoniker": "POO\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\source\\repos\\POO\\POO\\Program.cs",
+              "RelativeToolTip": "POO\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T22:46:07.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
