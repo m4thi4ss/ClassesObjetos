@@ -76,3 +76,51 @@ List<Carro> carros = new List<Carro>();
 carros.Add(carro1);
 carros.Add(carro2);
 carros.Add(carro);
+
+// 4 Pilares da POO
+
+//Classe e Objeto
+//Classe - Definicao (Molde)
+//Objeto - Instancia da Classe 
+
+//Ferramentas - Formas de Trabalho com POO
+
+//Encapsulamento e Heranca
+
+//Abstracao e Polimorfismo - Amanha
+
+//Encapsulamento - Ele serve para esconder comprotamento e atributos, ele serve para esconder tudo aquilo que nao pode ser mechido e nem olhado. Ele serve tambem para esconder para que nada possa ser acessado diretamente 
+//Por exemplo: Nas informacoes do carro, nao quero que mecha no nome dele ou otra informacao, voce cria o encapsulamento, para esconder as informacoes do objeto que voce quer que outra pessoa nao veja.
+//Por exemplo2: 
+//(Colocar o exemplo da conta e do saldo deposito)
+//Conta Bancaria (Saldo)
+//Sacar() - DEpositar() ppodem acessar o saldo
+
+//conta.saldo = 300000;
+
+//public - Que qualquer um pode acessar a aquela informacao, ele pode ser usado para atributos/metodo/classe.
+//ex:  public string marca;
+
+//private - Nem todo mundo pode acessar essa informacao que esta dentro desse objeto, podendo ser acessado somente dentro dele mesmo entrando dentro da classe e indo modificar la. usado nos atributos/metodo/classe. No private voce pode criar uma regra de como a pessoa vai mudar os atributos e pode esconder os atributos.Lembrando que e uma ferramenta em momentos necessarios. So e necessario colocar private no atributo, e no metodo so se for uma informacao que ninguem precisa saber, como o cambio do carro como ele funciona, precisa ter mas ninguem precisa saber
+//Todo atributo privado comeca com sumblinhado "_"
+//ex:  private string modelo;
+//ex como mudar informacao: public void AlternarModelo( string mod ){
+//if(mod == "Fiesta" || mod == "Hb20"){
+//modelo = mod;
+//}else{Console.WriteLine("Alteracao invalida")}}
+
+//Protected/internal - Esse atributo/metodo/classe so pode ser acessado por ele mesmo e por sua classe pai
+
+//Get e set - O set ele serve para mudar um nome de um metodo e atributos private . E o Get ele serve para mostrar as informacao dos atributos que estao private.
+
+//set 
+//public void SetModelo(string mod)
+//carro1.SerModelo("Hb20");
+
+//get
+//Console.WriteLine(carro1.GetModelo());
+//public string GetModelo()
+//{
+//    return _modelo;
+//}
+

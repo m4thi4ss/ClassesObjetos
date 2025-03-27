@@ -9,9 +9,8 @@ namespace Exercicio
     class Livro
     {
         public string titulo;
-        public int Paginas;
-        public string Autor;
-
+        public int paginas;
+        public string autor;
 
     }
 }
