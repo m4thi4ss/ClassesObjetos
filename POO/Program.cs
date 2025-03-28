@@ -111,7 +111,7 @@ carros.Add(carro);
 
 //Protected/internal - Esse atributo/metodo/classe so pode ser acessado por ele mesmo e por sua classe pai
 
-//Get e set - O set ele serve para mudar um nome de um metodo e atributos private . E o Get ele serve para mostrar as informacao dos atributos que estao private.
+//Get e set - O set ele serve para mudar um nome de um metodo e atributos private e so um padrao para mostra que altera o campo privado, mas ele nao altera nada, so para mostrar que foi alterado, so pode usar o set se tiver regra se nao tiver nao precisa. E o Get ele serve para mostrar as informacao dos atributos que estao private.
 
 //set 
 //public void SetModelo(string mod)

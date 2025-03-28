@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\fic\\Downloads\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1316C16A-E6D4-42B4-903D-DA6AE08F0AB2}|POO\\POO.csproj|c:\\users\\fic\\downloads\\poo\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1316C16A-E6D4-42B4-903D-DA6AE08F0AB2}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1316C16A-E6D4-42B4-903D-DA6AE08F0AB2}|POO\\POO.csproj|c:\\users\\fic\\downloads\\poo\\poo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1316C16A-E6D4-42B4-903D-DA6AE08F0AB2}|POO\\POO.csproj|solutionrelative:poo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{002EE19D-886F-463A-87A5-E0102512CCCE}|Exercicio\\Exercicio.csproj|c:\\users\\fic\\downloads\\poo\\exercicio\\atividade3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{002EE19D-886F-463A-87A5-E0102512CCCE}|Exercicio\\Exercicio.csproj|solutionrelative:exercicio\\atividade3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{002EE19D-886F-463A-87A5-E0102512CCCE}|Exercicio\\Exercicio.csproj|c:\\users\\fic\\downloads\\poo\\exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{002EE19D-886F-463A-87A5-E0102512CCCE}|Exercicio\\Exercicio.csproj|solutionrelative:exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002EE19D-886F-463A-87A5-E0102512CCCE}|Exercicio\\Exercicio.csproj|c:\\users\\fic\\downloads\\poo\\exercicio\\classfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002EE19D-886F-463A-87A5-E0102512CCCE}|Exercicio\\Exercicio.csproj|solutionrelative:exercicio\\classfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002EE19D-886F-463A-87A5-E0102512CCCE}|Exercicio\\Exercicio.csproj|c:\\users\\fic\\downloads\\poo\\exercicio\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002EE19D-886F-463A-87A5-E0102512CCCE}|Exercicio\\Exercicio.csproj|solutionrelative:exercicio\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Atividade3.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Downloads\\POO\\Exercicio\\Atividade3.cs",
-              "RelativeDocumentMoniker": "Exercicio\\Atividade3.cs",
-              "ToolTip": "C:\\Users\\fic\\Downloads\\POO\\Exercicio\\Atividade3.cs",
-              "RelativeToolTip": "Exercicio\\Atividade3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Downloads\\POO\\Exercicio\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "Exercicio\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\fic\\Downloads\\POO\\Exercicio\\ContaBancaria.cs",
+              "RelativeToolTip": "Exercicio\\ContaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T22:51:49.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Downloads\\POO\\Exercicio\\Program.cs",
-              "RelativeDocumentMoniker": "Exercicio\\Program.cs",
-              "ToolTip": "C:\\Users\\fic\\Downloads\\POO\\Exercicio\\Program.cs",
-              "RelativeToolTip": "Exercicio\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEIAAADxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T00:44:53.454Z",
+              "WhenOpened": "2025-03-28T00:48:40.89Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Carro.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Downloads\\POO\\POO\\Carro.cs",
-              "RelativeDocumentMoniker": "POO\\Carro.cs",
-              "ToolTip": "C:\\Users\\fic\\Downloads\\POO\\POO\\Carro.cs",
-              "RelativeToolTip": "POO\\Carro.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBAAAAAHAAAAAAAAAA==",
+              "Title": "ClassFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Downloads\\POO\\Exercicio\\ClassFuncionario.cs",
+              "RelativeDocumentMoniker": "Exercicio\\ClassFuncionario.cs",
+              "ToolTip": "C:\\Users\\fic\\Downloads\\POO\\Exercicio\\ClassFuncionario.cs",
+              "RelativeToolTip": "Exercicio\\ClassFuncionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T00:04:22.794Z",
+              "WhenOpened": "2025-03-28T00:47:58.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Downloads\\POO\\POO\\Program.cs",
-              "RelativeDocumentMoniker": "POO\\Program.cs",
-              "ToolTip": "C:\\Users\\fic\\Downloads\\POO\\POO\\Program.cs",
-              "RelativeToolTip": "POO\\Program.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAAAHkAAAAbAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\fic\\Downloads\\POO\\Exercicio\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Downloads\\POO\\Exercicio\\Program.cs",
+              "RelativeToolTip": "Exercicio\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAF4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T22:46:07.851Z",
+              "WhenOpened": "2025-03-28T00:42:29.093Z",
               "EditorCaption": ""
             }
           ]
