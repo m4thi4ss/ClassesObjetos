@@ -10,6 +10,8 @@
 
 using System;
 using Exercicio;
+using Exercicio.Contas;
+using Exercicio.Funcionario;
 
 //Livro livro1 = new Livro();
 
@@ -78,12 +80,12 @@ using Exercicio;
 
 //Crie um objeto dessa classe e faça algumas operações de depósito e saque.
 
-ContaBancaria conta1  = new ContaBancaria();
+//ContaBancaria conta1  = new ContaBancaria();
 
-conta1.Depositar(10);
-Console.WriteLine(conta1.VerSaldo());
-conta1.Sacar(5);
-Console.WriteLine(conta1.VerSaldo()); 
+//conta1.Depositar(10);
+//Console.WriteLine(conta1.VerSaldo());
+//conta1.Sacar(5);
+//Console.WriteLine(conta1.VerSaldo()); 
 
 //-------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -98,12 +100,66 @@ Console.WriteLine(conta1.VerSaldo());
 
 //Crie um objeto, defina um salário e exiba o valor usando `GetSalario()`.
 
+
 Funcionario s1 = new Funcionario();
 
 
 Console.WriteLine("Qual e seu salario?");
 double salario = double.Parse(Console.ReadLine());
 s1.SetSalario(salario);
-Console.WriteLine(s1.GetSalario);
+Console.WriteLine(s1.GetSalario());
+
+//### **3. Classe Retangulo**
+
+//Crie uma classe `Retangulo` com:
+
+//-Dois atributos privados `_largura` e `_altura`.
+//- Métodos `SetLargura(valor)`, `SetAltura(valor)`, `GetLargura()` e `GetAltura()`.
+//    - **SetLargura** → Modifica a _largura com o valor fornecido pelo usuario
+//    - **SetAltura** → Modifica a _altura com o valor fornecido pelo usuario
+//    - **GetLargura** → Retorna a Largura
+//    - **GetAltura** → Retorna a Altura
+//- Um método público `CalcularArea()`, que retorna a área do retângulo.
+
+//Crie um objeto, defina largura e altura, e exiba a área calculada.
 
 
+//### **4. Conta Corrente e Conta Poupança**
+
+//Utilizando a classe `ContaBancaria` criada no exercício 1, crie duas subclasses:
+
+//- `ContaCorrente`: possui um método `CobrarTaxa()` que reduz o saldo em um valor fixo (ex: 10).
+//- `ContaPoupanca`: possui um método `RenderJuros()`, que aumenta o saldo em 5%.
+
+//Crie instâncias de ambas as classes, faça depósitos e utilize seus métodos específicos.
+
+//contaCorrente cc = new contaCorrente(); //contaCorrente seria a classe fila da contaBancaria.
+
+//cc.Depositar(10);
+//Console.WriteLine(cc.VerSaldo());
+//cc.CobrarTaxa();
+//Console.WriteLine(cc.VerSaldo());
+
+
+//ContaPoupansa cp = new ContaPoupansa();
+
+//cp.Depositar(10);
+//Console.WriteLine(cp.VerSaldo());
+//cp.RenderJurus();
+//Console.WriteLine(cp.VerSaldo());
+
+
+//### **5. Funcionário e Gerente**
+
+//Baseando - se na classe `Funcionario` do exercício 2, crie uma classe `Gerente`, que:
+
+//-Herda `Funcionario`.
+//- Possui um método `Bonificar()`, que aumenta o salário em 10%.
+
+//Crie um objeto da classe `Gerente`, defina um salário, aplique a bonificação e exiba o salário atualizado.
+
+Gerente gb = new Gerente();
+
+gb.SetSalario(salario);
+gb.Bonificar();
+Console.WriteLine(gb.GetSalario());

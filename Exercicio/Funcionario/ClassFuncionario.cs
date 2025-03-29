@@ -4,18 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exercicio
+namespace Exercicio.Funcionario
 {
     class Funcionario
     {
-        private double _salario;
+        protected double _salario;
 
         public void SetSalario(double valor)
         {
             _salario = valor;
         }
 
-        public double GetSalario(double valor)
+        public double GetSalario()
         {
             return _salario;
         }

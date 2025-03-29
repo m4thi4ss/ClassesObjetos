@@ -4,15 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exercicio
+namespace Exercicio.Contas
 {
-  class ContaBancaria
+    class ContaBancaria
     {
-        private double _saldo = 0;
+        protected double _saldo = 0;
 
         public void Depositar(double valor)
         {
-         _saldo += valor;
+            _saldo += valor;
         }
         public void Sacar(double valor)
         {

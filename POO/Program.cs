@@ -109,7 +109,7 @@ carros.Add(carro);
 //modelo = mod;
 //}else{Console.WriteLine("Alteracao invalida")}}
 
-//Protected/internal - Esse atributo/metodo/classe so pode ser acessado por ele mesmo e por sua classe pai
+//Protected/internal - Esse atributo/metodo/classe so pode ser acessado por ele mesmo e por sua classe pai. Ele e usado para poder fazer heranca tanto pro pai e tanto pro filho.
 
 //Get e set - O set ele serve para mudar um nome de um metodo e atributos private e so um padrao para mostra que altera o campo privado, mas ele nao altera nada, so para mostrar que foi alterado, so pode usar o set se tiver regra se nao tiver nao precisa. E o Get ele serve para mostrar as informacao dos atributos que estao private.
 
@@ -124,3 +124,12 @@ carros.Add(carro);
 //    return _modelo;
 //}
 
+//4 Pilares 
+
+//Banco de Dados - SQL Server 
+
+// Desenvolvimento Backend
+
+// Polimorfismo depende de heranca 
+// Polimorfismo - O polimorfismo o metodo seria 2 funcoes em um metodo so. Ele so e usado quando tem heranca
+// como por exemplo: No carro vai ter o metodo de cambio e dentro dele vai ter 2 funcionalidade  cambio automatico e cambio manual, isso seria um polimosfismo.
